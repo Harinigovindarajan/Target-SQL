@@ -8,7 +8,7 @@ This project involves analyzing Target's e-commerce operations in Brazil using a
 
 The dataset consists of eight CSV files, each containing specific information about customers, orders, sellers, payments, products, geolocation, and customer reviews. 
 
-# Analysis Objective
+## Analysis Objective
 
 At Target, I'm analyzing the dataset to extract valuable insights and provide actionable recommendations to improve Target's operations in Brazil. The analysis will include the following areas:
 
